@@ -3,6 +3,7 @@ Wireless Communication Network- Labs
 
 # Course Description
   • Wireless communications basics
+  
   • Physical layer
   
       o Path Loss, Shadowing and Fading Models (Goldsmith chapter 2-3)
@@ -12,6 +13,7 @@ Wireless Communication Network- Labs
       o SISO-SIMO-MISO-MIMO channel model (TSE / Goldsmith chapter 10)
       
   • MAC protocols (e.g. TDMA, CSMA/CA)
+  
   • Recent standards
   
     o IEEE 802.11 WiFi
